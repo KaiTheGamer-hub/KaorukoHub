@@ -1,0 +1,6 @@
+local Settings = {
+  JoinTeam = "Pirates"; -- Pirates/Marines
+  Translator = true; -- true/false
+}
+getgenv().BETA_VERSION = true
+loadstring(game:HttpGet("https://pastefy.app/3tDwXPLn/raw"))()
